@@ -91,7 +91,7 @@ const products = [
     oldPrice: 32000,
     rating: 4.6,
     image:
-      "https://images.unsplash.com/photo-1609592806596-b43bada2f8c8?auto=format&fit=crop&w=700&q=80",
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&w=700&q=85",
     badge: "-31%",
   },
   {
@@ -183,7 +183,7 @@ const products = [
     price: 48500,
     oldPrice: 60000,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-158 기능?auto=format&fit=crop&w=700&q=80",
+    image: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=700&q=85",
     badge: "-19%",
   },
   {
@@ -343,7 +343,7 @@ const products = [
     price: 18000,
     oldPrice: 25000,
     rating: 4.6,
-    image: "https://images.unsplash.com/photo-1614632537423-1e6c2e7e0d3c?auto=format&fit=crop&w=700&q=80",
+    image: "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=700&q=85",
     badge: "-28%",
   },
   {
